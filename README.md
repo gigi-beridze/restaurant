@@ -1,3 +1,7 @@
+# Small info
+
+i'm using react also styled-components, splidejs,pagination,routers,material ui,framer-motion
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
