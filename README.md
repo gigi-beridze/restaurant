@@ -14,6 +14,7 @@ i'm using react also styled-components, splidejs,pagination,routers,material ui,
 > gmail - gigi.beridze.2018@gmail.com<br /> 
 <br />
 
+-
 ![image](https://user-images.githubusercontent.com/82542634/165371639-15389f35-e20f-4a63-be80-79363e926774.png)
 ![image](https://user-images.githubusercontent.com/82542634/165371660-bb49e4fc-b352-4d24-91a7-64624d0e1a4f.png)
 ![image](https://user-images.githubusercontent.com/82542634/165371707-7276fde3-e253-4859-afbd-31ed0e380828.png)
