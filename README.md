@@ -2,8 +2,6 @@
 ```
 restorant website, using react also styled-components, splidejs,pagination,routers,material ui,framer-motion
 ```
-View Demo👇: <br />
-https://effervescent-lebkuchen-ab40e9.netlify.app/ <br />
 View my Linkedin👇: <br />
 https://www.linkedin.com/in/gigi-beridze-367126214/ <br />
 
